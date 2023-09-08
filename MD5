@@ -1,0 +1,12 @@
+07b86338d0159d70ce171b2c6c5823e3 *DESCRIPTION
+5ce719b03a3939588dee74cdee07b840 *NAMESPACE
+a396219c15e9c613b943ea4c3cf5aed0 *NEWS.md
+5c0d3ab217e1a6a7c34428f03d26aa7b *R/cookiecutter.r
+c24bd86d693f3b6523addd340c1af848 *R/generate_files.r
+d12dd3c2a17a7cdb25696d5214694dad *R/prompt_for_config.r
+88a039e4945768d483ee71291ad12d04 *README.md
+20d103659a62529363f171e63bc633b3 *inst/examples/demo.zip
+991befb2ab700791fd33573097320d37 *man/bake.Rd
+ad0660b8b4b983e26f2f927bfdf85573 *man/figures/logo_header.jpg
+c59e1f82686657fa39a3af3a1b8e2ea0 *man/figures/logo_header.png
+30d16a5ad48470cd49a9b4962224bcab *man/generate_files.Rd
